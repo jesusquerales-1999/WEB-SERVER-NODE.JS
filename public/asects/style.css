@@ -1,0 +1,10 @@
+.footer{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background: rgb(53, 50, 50);
+    position: fixed;
+    bottom: 0px;
+    color: aliceblue;
+    padding: 10px;
+}

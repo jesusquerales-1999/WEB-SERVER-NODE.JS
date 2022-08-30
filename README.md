@@ -1,0 +1,1 @@
+## Esta es una demostracion de como servir contenido estatico en la web utilizando handlebars hbs
